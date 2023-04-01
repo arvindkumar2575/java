@@ -14,6 +14,6 @@ public class PrintStringNumberCombination {
 
         System.out.println(d+j+a);
 
-        System.out.println(a+d+i);
+        System.out.println(a+d+e+i);
     }
 }
